@@ -1,6 +1,6 @@
 {
   "name": "@crypto-project/common",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Module contains helper functions to be used in crypto project",
   "main": "./build/index",
   "types": "./build/index",
