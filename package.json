@@ -1,6 +1,6 @@
 {
   "name": "@crypto-project/common",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Module contains helper functions to be used in crypto project",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
