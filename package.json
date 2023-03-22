@@ -2,8 +2,8 @@
   "name": "@crypto-project/common",
   "version": "1.0.8",
   "description": "Module contains helper functions to be used in crypto project",
-  "main": "./build/index.js",
-  "types": "./build/index.d.ts",
+  "main": "./build/index",
+  "types": "./build/index",
   "files": [
     "build/**/*"
   ],
