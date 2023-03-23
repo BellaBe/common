@@ -1,4 +1,3 @@
-
 export function getEnvVarAsString(
     key: keyof NodeJS.ProcessEnv,
 ): string {
@@ -11,7 +10,7 @@ export function getEnvVarAsString(
     return value;
 }
 
-export function geEnvVarAsNumber(
+export function getEnvVarAsNumber(
     key: keyof NodeJS.ProcessEnv,
 ): number {
     const stringValue = getEnvVarAsString(key);
